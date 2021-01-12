@@ -1,5 +1,7 @@
 # FaradayMiddleware::OAuth2Refresh
 
+**THIS BRANCH IS A FORK OF THE ROOT REPO, BUT HAS A COMMIT CHERRY PICKED FROM [thedumbtechguy/faraday_middleware-oauth2_refresh](https://github.com/thedumbtechguy/faraday_middleware-oauth2_refresh). Take a look at both things if yuou have questions.**
+
 <div align="center">
 
 [![Gem Version][gem-version-svg]][gem-version-url]
